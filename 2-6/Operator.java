@@ -11,7 +11,7 @@ public class Operator {
         System.out.println("a * b = " + (a * b));
         System.out.println("a / b = " + (a / b));
         System.out.println("a % b = " + (a % b));
-        System.out.println("a >= 0�F" + (a >= 0));
+        System.out.println("a >= 0: " + (a >= 0));
         System.out.println("(a >= 0) && (b >= 0):" + ((a >= 0) && (b >= 0)));
     }
 }
